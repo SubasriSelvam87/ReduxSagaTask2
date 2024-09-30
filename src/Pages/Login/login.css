@@ -1,0 +1,16 @@
+.loginCard{
+    border-radius: 20px;
+    height: 70vh !important;
+    width: 120vh !important;
+    box-shadow: 1px 1px 10px 5px rgb(174, 176, 177);
+}
+img{
+    height: 65vh !important;
+    border-radius: 10px;
+}
+.loginButton{
+    border-radius: 5px;
+}
+.star{
+    color: rgb(135, 201, 245);
+}
